@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722943178517",
+    "project_id": "attendanceux",
+    "storage_bucket": "attendanceux.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722943178517:android:3e821cb5543c0f49319b1c",
+        "android_client_info": {
+          "package_name": "com.attendanceux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjb8gw-ugB96Lx_jX4v249zZDUQiMLndk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
